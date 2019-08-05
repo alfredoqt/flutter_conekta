@@ -9,7 +9,7 @@ A flutter plugin to tokenize cards using [Conekta](https://www.conekta.com/)
 First, add _flutter_conekta_ as a dependency in [your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 ```
-flutter_conekta: ^1.0.7
+flutter_conekta: ^1.0.7+1
 ```
 
 ### Android

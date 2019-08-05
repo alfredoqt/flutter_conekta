@@ -1,3 +1,6 @@
+## 1.0.7+1
+- Solved [Issue #1](https://github.com/alfredoqt/flutter_conekta/issues/1)
+
 ## 1.0.7
 - Updated gradle.properties to support AndroidX
 

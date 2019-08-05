@@ -1,6 +1,6 @@
 name: flutter_conekta
 description: Flutter plugin for Conekta, enabling Android and iOS card tokenization.
-version: 1.0.7
+version: 1.0.7+1
 authors:
   - Alfredo Quintero <alfredoq98@hotmail.com>
   - Miguel Gallardo <miguel@gallardo.xyz>

@@ -53,7 +53,6 @@
             NSString* id = [data objectForKey:@"id"];
             result(id);
         } andError:^(NSError* error) {
-            NSLog(@"Error data: %@", data);
             result([FlutterError errorWithCode:@"ERROR_UNABLE_TO_TOKENIZE" message:error.localizedDescription details:nil]);
         }];
         
