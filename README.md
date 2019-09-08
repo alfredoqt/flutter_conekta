@@ -60,7 +60,7 @@ Will let you tokenize a card. This receives six required parameters: the `public
 
 ## Demo App
 
-![Demo](https://github.com/MiguelGT98/flutter_conekta/blob/master/example/example.png)
+![Demo](https://github.com/alfredoqt/flutter_conekta/blob/master/example/example.png)
 
 ## Example
 
