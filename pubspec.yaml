@@ -1,13 +1,14 @@
-name: flutter_conekta
-description: Flutter plugin for Conekta, enabling Android and iOS card tokenization.
-version: 1.0.7+1
+name: flutter_conekta_2
+description: Flutter plugin for Conekta, enabling Android and iOS card tokenization with WKWebView.
+version: 1.0.7+2
 authors:
   - Alfredo Quintero <alfredoq98@hotmail.com>
   - Miguel Gallardo <miguel@gallardo.xyz>
+  - Isaac Gonzalez <isaac@cuatropuntocero.solutions>
 homepage: https://github.com/alfredoqt/flutter_conekta
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.2.2 <3.0.0"
 
 dependencies:
   flutter:

@@ -1,9 +1,10 @@
 name: flutter_conekta_example
 description: Demonstrates how to use the flutter_conekta plugin.
 publish_to: 'none'
+version: 5.0.0+44
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.2.2 <3.0.0"
 
 dependencies:
   flutter:
